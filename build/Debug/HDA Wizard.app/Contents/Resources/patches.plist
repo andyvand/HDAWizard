@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CodecName</key>
+		<string>Realtek ALC888</string>
+		<key>Patch</key>
+		<string>&apos;s|\x8b\x19\xd4\x11|\x88\x08\xec\x10|g&apos;</string>
+	</dict>
+	<dict>
+		<key>CodecName</key>
+		<string>Realtek ALC885</string>
+		<key>Patch</key>
+		<string>&apos;s|\x8b\x19\xd4\x11|\x85\x08\xec\x10|g&apos;</string>
+	</dict>
+	<dict>
+		<key>CodecName</key>
+		<string>Realtek ALC887</string>
+		<key>Patch</key>
+		<string>&apos;s|\x8b\x19\xd4\x11|\x87\x08\xec\x10|g&apos;</string>
+	</dict>
+	<dict>
+		<key>CodecName</key>
+		<string>Realtek ALC889</string>
+		<key>Patch</key>
+		<string>&apos;s|\x8b\x19\xd4\x11|\x89\x08\xec\x10|g&apos;</string>
+	</dict>
+	<dict>
+		<key>CodecName</key>
+		<string>Realtek ALC892</string>
+		<key>Patch</key>
+		<string>&apos;s|\x8b\x19\xd4\x11|\x92\x08\xec\x10|g&apos;</string>
+	</dict>
+	<dict>
+		<key>CodecName</key>
+		<string>Realtek ALC898</string>
+		<key>Patch</key>
+		<string>&apos;s|\x8b\x19\xd4\x11|\x99\x08\xec\x10|g&apos;</string>
+	</dict>
+	<dict>
+		<key>CodecName</key>
+		<string>Realtek ALC1150</string>
+		<key>Patch</key>
+		<string>&apos;s|\x8b\x19\xd4\x11|\x00\x09\xec\x10|g&apos;</string>
+	</dict>
+	<dict>
+		<key>CodecName</key>
+		<string>Realtek ALC1200</string>
+		<key>Patch</key>
+		<string>&apos;s|\x8b\x19\xd4\x11|\x88\x08\xec\x10|g&apos;</string>
+	</dict>
+	<dict>
+		<key>CodecName</key>
+		<string>Your own binpatch - click button Custom &amp; write binpatch (example)</string>
+		<key>Patch</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
